@@ -8,4 +8,4 @@
 
 ---
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-Doos-exe
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doos-exe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
