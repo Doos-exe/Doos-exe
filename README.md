@@ -1,11 +1,11 @@
 ### Wazzup, I'm Deux 
 ## ▄︻デ══━一  (@Doos-exe)
 
-<br> <ul><li> 🖥️ Currently learning: </li>
-» Python
-<br>» C++
-<br>» Java 
-</ul>
+<br><dl><dt>🖥️ Currently learning:</dt>
+<dd>» Python
+<dd>» C++
+<dd>» Java 
+</dl>
 
 ---
 ### :fire: My Stats :
