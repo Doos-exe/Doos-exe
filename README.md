@@ -10,14 +10,11 @@
 <dd><img src="https://skillicons.dev/icons?i=python,cpp,java,html" />
 <dd><img src="https://skillicons.dev/icons?i=mysql" />
 </dl>
----
 
 <dl><dt> <h2>🌑 Fun Facts: </h2></dt>
 <dd>⋆✮ Like playing games
 <dd>⋆✮ Like programming
 </dl>
-
----
 
 ### ⎚-⎚ My Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Doos-exe&show_icons=true&theme=radical" alt="Doos-exe's GitHub stats" height="200"/>
