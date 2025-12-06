@@ -7,8 +7,8 @@
 </div>
 
 <dl><dt> <h2>🖥️ Currently learning: </h2></dt>
-<dd>| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,html" /> |
-<dd>| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+<dd><img src="https://skillicons.dev/icons?i=python,cpp,java,html" />
+<dd><img src="https://skillicons.dev/icons?i=mysql" />
 </dl>
 ---
 
