@@ -1,11 +1,8 @@
 ### Wazzup, I'm Deux 
 ## ▄︻デ══━一  (@Doos-exe)
 <div align="center">
-  <a href="your_linkedin_link_here" target="_blank">
+  <a href="www.linkedin.com/in/deux-marq-marquez-428aa5306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="your_twitter_link_here" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
