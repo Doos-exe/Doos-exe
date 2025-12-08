@@ -7,7 +7,7 @@
 </div>
 
 <dl><dt> <h2>🖥️ Currently learning: </h2></dt>
-<dd><img src="https://skillicons.dev/icons?i=python,cpp,java,html" />
+<dd><img src="https://skillicons.dev/icons?i=python,cpp,java,html,php,kotlin" />
 <dd><img src="https://skillicons.dev/icons?i=mysql" />
 </dl>
 
