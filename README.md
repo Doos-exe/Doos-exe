@@ -1,12 +1,12 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=850&height=100&lines=%24+whoami;%3E+Deux+Marquez;%3E+Student+Developer;%3E+Building+something+worth+shipping..." alt="Terminal-style typing animation introducing Deux Marquez" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=850&height=100&lines=%24+who+am+i;%3E+Deux+Marquez;%3E+Software+Engineer" alt="Terminal-style typing animation introducing Deux Marquez" />
   </a>
 
   <br />
 
-  <a href="https://www.linkedin.com/in/deux-marq-marquez-428aa5306/">
+  <a href="https://www.linkedin.com/in/deux-marq-marquez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://deuxmarquez-portfolio.vercel.app">
@@ -23,25 +23,21 @@
 ## ⚙️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,php,kotlin,html,css,js&perline=4&theme=dark" alt="Programming languages" />
+  <sub><b>LANGUAGES</b></sub>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,php,kotlin,html,css,js&perline=8&theme=dark" alt="Programming languages" />
+  <br /><br />
+  <sub><b>TOOLS &amp; PLATFORMS</b></sub>
   <br /><br />
   <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,vscode&perline=5&theme=dark" alt="Development tools" />
 </div>
-
-<br />
-
-```text
-Languages  ███████████████░░░░░  Building
-Tools      █████████████░░░░░░░  Exploring
-Ideas      ████████████████████  Unlimited
-```
 
   </td>
   <td width="38%" align="center" valign="middle">
     <!-- Replace the URL below with any GIF you prefer. -->
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation" />
     <br />
-    <sub><code>currently: turning ideas into code</code></sub>
+    <sub><code>Curious by default. Deliberate by design.</code></sub>
   </td>
   </tr>
 </table>
@@ -51,10 +47,10 @@ Ideas      ████████████████████  Unlimit
 ## 🎮 `player-profile --inspect`
 
 ```yaml
-name: Deux Marquez
-class: Student Developer
-currently: Improving my skills and building useful projects
-interests: Coding, gaming, and exploring new ideas
+name      |   Deux Marquez
+class     |   Software Developer
+currently |   Solving complex problems, building systems that inspire
+interests |   Coding, gaming, and exploring new ideas
 ```
 
 ---
@@ -62,12 +58,17 @@ interests: Coding, gaming, and exploring new ideas
 ## 📡 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doos-exe&bg_color=0D1117&color=22D3EE&line=A855F7&point=F0F6FC&area=true&hide_border=true&custom_title=Deux's%20Contribution%20Graph" width="100%" alt="Deux's interactive-style GitHub contribution graph" />
-</div>
+  <a href="https://github.com/Doos-exe?tab=overview">
+    <img src="https://img.shields.io/badge/VIEW_MY_CONTRIBUTIONS-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View Deux's GitHub contributions" />
+  </a>
+  <a href="https://github.com/Doos-exe?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-0D1117?style=for-the-badge&logo=git&logoColor=A855F7" alt="Explore Deux's GitHub projects" />
+  </a>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Doos-exe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=C9D1D9&ring_color=22D3EE" alt="Deux's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doos-exe&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Deux's most used languages" />
+  <br /><br />
+
+  <img src="https://img.shields.io/github/followers/Doos-exe?label=FOLLOWERS&style=flat-square&color=22D3EE&labelColor=161B22" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Doos-exe?affiliations=OWNER&style=flat-square&label=TOTAL%20STARS&color=A855F7&labelColor=161B22" alt="Total GitHub stars" />
 </div>
 
 <br />
